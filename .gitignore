@@ -1,0 +1,48 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.env/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+data/
+datasets/
+
+# Models + checkpoints
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+models/
+saved_models/
+
+# --- Weights & Biases ---
+wandb/
+
+# Output / results
+videos/
+results/
+output/
+plots/
+
+# Gymnasium recordings
+monitor/
+recordings/
+
+# Cache & logs
+.cache/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
