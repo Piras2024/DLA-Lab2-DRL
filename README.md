@@ -1,3 +1,3 @@
 # DLA-Lab2-DRL
-
-![Demo GIF](LunarLander.gif)
+![Demo GIF](CartPole_dqn.gif)
+![Demo GIF](LunarLander_dqn.gif)
