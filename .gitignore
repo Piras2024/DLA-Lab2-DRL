@@ -46,3 +46,10 @@ recordings/
 # OS files
 .DS_Store
 Thumbs.db
+
+reinforce_videos/
+reinforce_cartpole_no_baseline_videos
+reinforce_lunar_lander
+LunarLander_videos
+
+.vscode
