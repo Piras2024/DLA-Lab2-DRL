@@ -46,5 +46,6 @@ The environments solved are:
 - **Experience Replay**: random minibatches break correlation.
 - **Target Network Updates**: stabilize temporal difference learning.
 
+https://api.wandb.ai/links/matteo-piras-universit-di-firenze/8rlg7q5c
 ![Demo GIF](CartPole_dqn.gif)
 ![Demo GIF](LunarLander_dqn.gif)

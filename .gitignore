@@ -20,7 +20,6 @@ datasets/
 
 # Models + checkpoints
 *.pt
-*.pth
 *.ckpt
 checkpoints/
 models/
@@ -51,5 +50,6 @@ reinforce_videos/
 reinforce_cartpole_no_baseline_videos
 reinforce_lunar_lander
 LunarLander_videos
+cartpole_REINFORCE_no_baseline_videos
 
 .vscode
